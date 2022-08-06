@@ -43,6 +43,11 @@ a{
 a:hover{
   color: white;
 }
+
+.p{
+  font-size: 30%;
+  
+}
 .top-container{
   background-color: #A6D1E6;
   position: relative;
